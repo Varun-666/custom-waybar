@@ -1,1 +1,1 @@
-# custom-waybar
+# Custom Config For Waybar (ARCH LINUX)
